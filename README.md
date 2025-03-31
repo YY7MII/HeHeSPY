@@ -1,24 +1,32 @@
 <!--# HeHeSPY-->
 
-## Disclaimer for HeHeSPY Services
+## License
 
-_This website and the services provided by HeHeSPY (hereinafter referred to as "we," "us," "i," or "our") are not affiliated with, endorsed by, or in any way associated with the company that ran GameSpy. Any references to GameSpy, its trademarks, or related services are used solely for descriptive and informational purposes._
+HeHeSpy is licensed under the **GNU General Public License v3.0**.  
+See the [LICENSE](LICENSE) file for more details.
 
-_absolutely no code is taken from GameSpy's source code, all code seen is writen by us._
 
-**Ownership and Partnership Disclaimer:**
-_HeHeSPY is an independent entity and is not owned, operated, or partnered with the original GameSpy company. We are a separate and unrelated service providing game server services to users._
+## Disclaimer for HeHeSpy Services
 
-**No Association Endorsement:**
-_The use of any trademarks, logos, or brand names of GameSpy on our website or in connection with our services is not intended to imply any endorsement or affiliation with GameSpy. All trademarks, registered trademarks, and service marks mentioned on this site are the property of their respective owners._
+_This website and the services provided by HeHeSpy (hereinafter referred to as "we," "us," or "our") are not affiliated with, endorsed by, or in any way associated with the company that ran GameSpy. Any references to GameSpy, its trademarks, or related services are used solely for descriptive and informational purposes._
 
-**Limitation of Liability:**
-_While we strive to provide reliable and accurate services, we disclaim any liability for any errors, inaccuracies, or omissions in the information provided on our website. Users of HeHeSPY services use them at their own risk._
+### **Code Ownership**  
+Absolutely no code is taken from GameSpy's source code. All code used in HeHeSpy is developed by us.
 
-**Changes to Terms:**
-_We reserve the right to modify, update, or revise this disclaimer at any time. It is the responsibility of users to review this disclaimer periodically for changes._
+### **Ownership and Partnership Disclaimer**  
+HeHeSpy is an independent project and is not owned, operated, or partnered with the original GameSpy company. We are a separate and unrelated service providing game server services to users.
 
-_**By using HeHeSPY's services, you acknowledge that you have read, understood, and agree to the terms of this disclaimer.**_
+### **No Association Endorsement**  
+The use of any trademarks, logos, or brand names of GameSpy on our website or in connection with our services is not intended to imply any endorsement or affiliation with GameSpy. All trademarks, registered trademarks, and service marks mentioned on this site are the property of their respective owners.
+
+### **Limitation of Liability**  
+While we strive to provide reliable and accurate services, we make no guarantees regarding the availability, reliability, or performance of HeHeSpy. We disclaim any liability for any errors, inaccuracies, or omissions in the information provided on our website. Users of HeHeSpy services do so at their own risk. We are not responsible for any misuse of our services by third parties.
+
+### **Changes to Terms**  
+We reserve the right to modify, update, or revise this disclaimer at any time. It is the responsibility of users to review this disclaimer periodically for changes.
+
+**By using HeHeSpy's services, you acknowledge that you have read, understood, and agree to the terms of this disclaimer.**
+
 
 ##
 # These servers are for hosting with friends or publicly
